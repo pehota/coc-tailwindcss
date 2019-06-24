@@ -32,7 +32,8 @@
     "coc.nvim": "^0.0.67",
     "color": "^3.1.0",
     "dlv": "^1.1.2",
-    "tmp": "0.0.33"
+    "tmp": "0.0.33",
+    "typescript": "^3.5.2"
   },
   "dependencies": {
     "fast-glob": "^2.2.7",
